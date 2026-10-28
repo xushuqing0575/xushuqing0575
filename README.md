@@ -15,3 +15,12 @@
 | Farm & Roguelike | Team game with farming and environmental systems | Java, OOP, SOLID, REST API |
 
 Chloe Shuqing Xu · Computer Science student at Monash University, interested in data analysis and software engineering opportunities.
+
+### Selected Academic Results
+
+| Course | Result |
+| --- | --- |
+| Databases | High Distinction (HD) |
+| Cybersecurity Tools and Techniques | High Distinction (HD) |
+| Foundations of Data Analysis | High Distinction (HD) |
+| Fundamentals of Algorithms | Distinction (D) |
