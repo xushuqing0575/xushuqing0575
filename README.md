@@ -3,7 +3,7 @@
   <img src="notebook-light.svg" width="100%" alt="Shuqing Xu — Computer Science at Monash University. Python, R, SQL, Java. Data analysis, databases and software engineering.">
 </picture>
 
-[Email](mailto:xushuqing0575@163.com) · [GitHub](https://github.com/xushuqing0575)
+[Portfolio](https://xushuqing0575.github.io/) · [Email](mailto:xushuqing0575@163.com) · [GitHub](https://github.com/xushuqing0575)
 
 ### Selected work
 
