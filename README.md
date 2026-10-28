@@ -1,4 +1,4 @@
-<a href="https://xushuqing0575.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="header-dark-v3.svg"><img src="header-light-v3.svg" width="100%" alt="Chloe Shuqing Xu — CS at Monash University. Open my notebook portfolio."></picture></a>
+<a href="https://xushuqing0575.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="header-dark-v4.svg"><img src="header-light-v4.svg" width="100%" alt="Chloe Shuqing Xu — CS at Monash University. Open my notebook portfolio."></picture></a>
 
 <p>
 <a href="mailto:xushuqing0575@163.com"><picture><source media="(prefers-color-scheme: dark)" srcset="button-email-dark-v3.svg"><img src="button-email-light-v3.svg" height="48" alt="Email Chloe at 163.com"></picture></a>
