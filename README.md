@@ -1,26 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="notebook-dark.svg?v=chloe-2">
-  <img src="notebook-light.svg?v=chloe-2" width="100%" alt="Chloe Shuqing Xu — Computer Science at Monash University. Python, R, SQL, Java. Data analysis, databases and software engineering.">
-</picture>
+<a href="https://xushuqing0575.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="header-dark-v3.svg"><img src="header-light-v3.svg" width="100%" alt="Chloe Shuqing Xu — CS at Monash University. Open my notebook portfolio."></picture></a>
 
-[Portfolio](https://xushuqing0575.github.io/) · [Email](mailto:xushuqing0575@163.com) · [GitHub](https://github.com/xushuqing0575)
+<p>
+<a href="mailto:xushuqing0575@163.com"><picture><source media="(prefers-color-scheme: dark)" srcset="button-email-dark-v3.svg"><img src="button-email-light-v3.svg" height="48" alt="Email Chloe at 163.com"></picture></a>
+<a href="https://xushuqing0575.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="button-site-dark-v3.svg"><img src="button-site-light-v3.svg" height="48" alt="Open my notebook portfolio"></picture></a>
+<a href="mailto:xushuqing0575@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="button-gmail-dark-v3.svg"><img src="button-gmail-light-v3.svg" height="48" alt="Email Chloe at Gmail"></picture></a>
+<a href="https://xushuqing0575.github.io/#resume"><img src="button-resume-light-v3.svg" height="48" alt="View English and Chinese resume PDFs"></a>
+</p>
 
-### Selected work
-
-| Project | Focus | Tools |
-| --- | --- | --- |
-| Superstore Economic Dashboard | Retail data integration and interactive analysis | R, Shiny, tidyverse, Plotly |
-| Campus Exploration & Rewards | Greedy graph exploration and reward retrieval | Python, BST, Max Heap |
-| BigRig Mover | Database Team Member · volunteer project | Oracle SQL, MongoDB, JSON |
-| Farm & Roguelike | Team game with farming and environmental systems | Java, OOP, SOLID, REST API |
-
-Chloe Shuqing Xu · Computer Science student at Monash University, interested in data analysis and software engineering opportunities.
-
-### Selected Academic Results
-
-| Course | Result |
-| --- | --- |
-| Databases | High Distinction (HD) |
-| Cybersecurity Tools and Techniques | High Distinction (HD) |
-| Foundations of Data Analysis | High Distinction (HD) |
-| Fundamentals of Algorithms | Distinction (D) |
+<a href="https://xushuqing0575.github.io/#ABOUT"><picture><source media="(prefers-color-scheme: dark)" srcset="about-dark-v3.svg"><img src="about-light-v3.svg" width="100%" alt="About Chloe: Python, R, SQL, Java, C++, HTML; pandas, NumPy, Oracle, MongoDB; R Shiny; Excel, Power BI, Power Automate, GitLab, Linux."></picture></a>
